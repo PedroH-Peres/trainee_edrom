@@ -1,0 +1,7 @@
+path: /home/arthur/Documents/libraries/OIDv4_ToolKit/OID/Dataset
+train: train
+val: validation
+test: test
+
+names:
+  0: lampada
